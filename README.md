@@ -8,10 +8,10 @@
   display: block;
   ">
 # SurfTheWeb-V3
-### Unblock The Web Anytime!
+### Unbl0ck The Web Anytime!
 ### Features:
-- Proxies to Unblock the Web
-- Cheats to cheat and bypass school blockers
+- Pr0xies to Unblock the Web
+- Che@ts to che@t and bypass school bl0ckers
 - A Neat UI
 - Your favorite Apps
 # Deploying
